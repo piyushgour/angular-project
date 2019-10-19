@@ -1,0 +1,25 @@
+################ Setup for Angular CLI  on Windows ###########
+#Download the Angular 
+#Check the Angular is downloaded or not 
+node -v
+
+########### Output ##########
+#v11.5.0
+
+npm -v
+
+########### Output ###########
+#6.4.1
+
+#install Angular CLI
+
+npm install -g @angular/cli 
+
+############# Output ##########
+#+ @angular/cli@8.3.12
+#added 244 packages from 185 contributors in 74.773s
+
+
+#website for more CLI commands
+#https://angular.io/cli
+
