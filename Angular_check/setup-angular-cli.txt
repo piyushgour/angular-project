@@ -20,6 +20,7 @@ npm install -g @angular/cli
 #added 244 packages from 185 contributors in 74.773s
 <html>
     //Some code added
+    //new changes
 </html>
 
 #website for more CLI commands
