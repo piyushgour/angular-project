@@ -18,7 +18,9 @@ npm install -g @angular/cli
 ############# Output ##########
 #+ @angular/cli@8.3.12
 #added 244 packages from 185 contributors in 74.773s
-
+<html>
+    //Some code added
+</html>
 
 #website for more CLI commands
 #https://angular.io/cli
